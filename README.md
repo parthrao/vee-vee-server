@@ -1,4 +1,4 @@
-# Relay Starter Kit
+# Relay-Graphql boilerplate 
 
 This kit includes an app server, a GraphQL server, and a transpiler that you can use to get started building an app with Relay. For a walkthrough, see the [Relay tutorial](https://facebook.github.io/relay/docs/tutorial.html).
 
@@ -28,7 +28,3 @@ regenerate `data/schema.json`, and restart the server:
 npm run update-schema
 npm start
 ```
-
-## License
-
-Relay Starter Kit is [BSD licensed](./LICENSE). We also provide an additional [patent grant](./PATENTS).
